@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25956'
     url: http://www.gutenberg.org/2009/agents/25956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23637#The-Bishop-of-Cottontown--A-Story-of-the-Southern-Cotton-Mills
 gutenberg_issued: '2007-11-26'
 gutenberg_type: Text
 identifiers:
